@@ -21,7 +21,8 @@ Como gerar a biblioteca para usar no seu código
 
 Execute:
 
-gcc -c heap.c
+gcc -c heap.c 
+
 Será gerado um arquivo chamado heap.o
 
 Exemplo de como compilar junto com seu código:
