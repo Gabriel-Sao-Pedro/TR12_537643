@@ -1,5 +1,3 @@
-# TR12_537643
-
 ## Pré-requisito
 Para compilar e executar o código é necessario que tenha instalado o GCC ou G++. Com algum deles instalados, resta a você baixar o código, para fazer isso:
 
